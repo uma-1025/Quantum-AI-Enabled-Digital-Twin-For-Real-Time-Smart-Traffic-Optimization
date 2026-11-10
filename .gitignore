@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/vac_traffic.db
+data/runs/
+.pytest_cache/
